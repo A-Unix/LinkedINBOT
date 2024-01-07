@@ -5,7 +5,7 @@
 
 ### Clone the repo
 ```bash
-git clone
+git clone https://github.com/A-Unix/LinkedINBOT.git
 ```
 ### Move to cloned folder
 ```bash
